@@ -1,0 +1,16 @@
+{
+  "name": "serverless-node-sms-reminder",
+  "version": "1.0.0",
+  "description": "A serverless text message app with Node.js Twilio and AWS",
+  "main": "handler.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Gedion T",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2",
+    "serverless-finch": "^2.5.2",
+    "twilio": "^3.43.1"
+  }
+}

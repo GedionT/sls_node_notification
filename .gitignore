@@ -1,0 +1,5 @@
+# package dirs
+node_modules/
+
+# serverless dirs
+.serverless
