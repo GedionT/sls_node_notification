@@ -12,5 +12,8 @@
     "request": "^2.88.2",
     "serverless-finch": "^2.5.2",
     "twilio": "^3.43.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.2"
   }
 }
